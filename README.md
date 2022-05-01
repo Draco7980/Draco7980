@@ -1,8 +1,8 @@
 ## Hey, what's up? My name is Douglas, but u can call me Doug!!
 
 - 🔭 I’m looking for a internship/remote job.
-- 🌱 I’m currently learning Java on a Bootcamp on DIO.
-- 😄 Pronouns: Ele/Dele
+- 🌱 I’m currently learning Java in a Bootcamp on DIO.
+- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/Draco7980">
