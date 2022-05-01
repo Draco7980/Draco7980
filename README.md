@@ -2,7 +2,6 @@
 
 - 🔭 I’m looking for a internship/remote job.
 - 🌱 I’m currently learning Java in a Bootcamp on DIO.
-- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/Draco7980">
