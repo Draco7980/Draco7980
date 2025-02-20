@@ -1,7 +1,7 @@
 ## Hey, what's up? My name is Douglas, but u can call me Doug!!
 
-- 🔭 I’m looking for a internship/remote job.
-- 🌱 I’m currently learning Java in a Bootcamp on DIO.
+- 🔭 I’m looking for a remote job as data scientist.
+- 🌱 I’m currently learning python and sql.
 
 <div align="center">
   <a href="https://github.com/Draco7980">
