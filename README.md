@@ -1,6 +1,6 @@
 ## Hey, what's up? My name is Douglas, but u can call me Doug!!
 
-- 🔭 I’m looking for a remote job as data scientist.
+- 🔭 I’m looking for a remote job as a data scientist.
 - 🌱 I’m currently learning python and sql.
 
 <div align="center">
